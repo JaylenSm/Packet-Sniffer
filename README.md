@@ -32,12 +32,12 @@ The intended use of this tool is to be used for incoming and outgoing traffic of
 
 # Presentation
 
-For a presentation/demo of the project [CLICK ME](https://onedrive.live.com/:p:/g/personal/8D3E98D829540707/EaFIBRELXh9JvErrBB0qjT0BXtqbTNiD_4eelAuKZDkHoA?resid=8D3E98D829540707!s110548a15e0b491fbc4aeb041d2a8d3d&ithint=file%2Cpptx&e=pwUwL7&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy84ZDNlOThkODI5NTQwNzA3L0VhRklCUkVMWGg5SnZFcnJCQjBxalQwQlh0cWJUTmlEXzRlZWxBdUtaRGtIb0E_ZT1wd1V3TDc)
+For a presentation/demo of the project [CLICK ME](https://onedrive.live.com/:p:/g/personal/8D3E98D829540707/EaFIBRELXh9JvErrBB0qjT0BXtqbTNiD_4eelAuKZDkHoA?resid=8D3E98D829540707!s110548a15e0b491fbc4aeb041d2a8d3d&ithint=file%2Cpptx&e=pwUwL7&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy84ZDNlOThkODI5NTQwNzA3L0VhRklCUkVMWGg5SnZFcnJCQjBxalQwQlh0cWJUTmlEXzRlZWxBdUtaRGtIb0E_ZT1wd1V3TDc).
 
 
 # Requirements
 
-- Make sure you are using a system compatible with the tool. The tool is pretty much compatible with most modern systems where socket access is available to the user (Linux, Windows, MacOS).
+- Make sure you are using a system compatible with the tool. The tool is pretty much compatible with most modern systems where socket access is available to the user (Linux, Windows, MacOS). For security hardened systems, such as MacOS, admin privileges will be needed.
 
 - Make sure that the latest version of Python3 is installed and utilized for the best performance.
 
@@ -46,7 +46,7 @@ For a presentation/demo of the project [CLICK ME](https://onedrive.live.com/:p:/
 
 # Installation
 
-- The dedicated backend and frontend files are to be downloaded respectively (In the "src" folder). If the interface name needs to be changed it will have to be changed in the backend file, represented by "(interface = "eth0")" in the "Packet_Sniffer" class. For the tool to function the dedicated frontend file is to be ran (python3 frontend_packet_sniffer).
+- The dedicated backend and frontend files are to be downloaded respectively (In the "src/" folder). If the interface name needs to be changed it will have to be changed in the backend file, represented by "(interface = "eth0")" in the "Packet_Sniffer" class. For the tool to function the dedicated frontend file is to be ran (python3 frontend_packet_sniffer).
 
 
 ### 🔖 Tags
